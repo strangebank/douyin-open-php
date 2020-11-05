@@ -3,7 +3,7 @@
     "description": "Third party message",
     "type": "library",
     "require": {
-        "php": "7.4",
+        "php": ">=7.4",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
