@@ -1,0 +1,19 @@
+{
+    "name": "strangebank/douyin",
+    "description": "Third party message",
+    "type": "library",
+    "require": {
+        "php": "7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "strangebank",
+            "email": "strangebank@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC"
+}
